@@ -1,0 +1,18 @@
+﻿<GPS>
+    <GPSlines>
+        <line_side r="0.800000" g="0.100000" b="0.100000" startPoint="-17.000000" endPoint="8.000000" stepSize="1.000000" step="2.000000"/>
+        <line_center r="0.100000" g="0.600000" b="0.100000" startPoint="0.000000" endPoint="25.000000" stepSize="1.000000" step="1.000000"/>
+        <line_offset r="0.100000" g="0.100000" b="0.800000" startPoint="0.000000" endPoint="25.000000" stepSize="1.000000" step="1.500000"/>
+    </GPSlines>
+    <GPShud>
+        <HUDsize>1.000000</HUDsize>
+    </GPShud>
+    <GPSController>
+        <wheelmode>false</wheelmode>
+    </GPSController>
+    <GPSsound>
+        <StartSound>true</StartSound>
+        <StopSound>true</StopSound>
+        <WarningSound>true</WarningSound>
+    </GPSsound>
+</GPS>
